@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Parviz
-- 👀 Golang, Python
+- ✏️ Golang, Python
 - 📫 pyuldashev98@gmail.com
